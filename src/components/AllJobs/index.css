@@ -1,0 +1,17 @@
+ul {
+  padding-inline-start: 0px;
+  list-style-type: none;
+}
+
+.all-products-section {
+  display: flex;
+  flex-direction: column;
+}
+
+/* @media screen and (min-width: 768px) {
+  .all-products-section {
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 100px;
+  }
+} */

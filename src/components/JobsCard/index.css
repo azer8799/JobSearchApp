@@ -1,0 +1,67 @@
+.link-item {
+  text-decoration: none;
+  color: #fff;
+}
+
+.job-item {
+  padding: 15px;
+  margin: 20px;
+  border-radius: 15px;
+  background-color: #202020;
+}
+
+.jobCard-desc {
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.horizontal-line {
+  color: grey;
+  width: 40vh;
+}
+
+.thumbnail {
+  width: 30px;
+  height: 80px;
+  margin: 10px;
+}
+
+.card-image-container {
+  display: flex;
+}
+
+.location {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.star {
+  width: 10px;
+  height: 30px;
+}
+
+.jobCard-rating {
+  font-size: 22px;
+
+  margin-left: 5px;
+}
+
+.card-heading {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.card-content-align {
+  display: flex;
+  flex-direction: column;
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}

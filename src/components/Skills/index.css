@@ -1,0 +1,9 @@
+.skills-logo-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 22px;
+}
+
+.skills-logo {
+  width: 40px;
+}
